@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulmothapo
-- 👀 I’m interested in Fintech mostly and also building palardfforms that allow other creators.
+- 👀 I’m interested in Fintech mostly and also building platfforms that allow other creators to build communities.
 - 🌱 I’m currently learning about Fintech.
 - 💞️ I’m looking to collaborate on python and Java projects.
 - 📫 How to reach me paulmothapo.personal@gmail.com

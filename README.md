@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paulmothapo
-- 👀 I’m interested in Fintech mostly and also building platfforms that allow other creators to build.
-- 🌱 I’m currently learning about future tech.
-- 💞️ I’m looking to collaborate on python and Java/Javascript projects.
+- 👀 I’m interested in Fintech, Ai, LLM, and also building platfforms that allow other creators to build.
+- 🌱 I’m currently creating future tech.
 - 📫 How to reach me paulmothapo.personal@gmail.com
 
 <!---

@@ -1,8 +1,14 @@
 👋 Hi, I’m @paulmothapo
 
-🔧 Skills: Full stack development
+🚀 Technical Skills:
 
-🌱 I'm currently working on: [Add what you're currently working on here]
+:snake: Programming Languages: Python, Java, JavaScript, TypeScript
+:mag: Query Language: GROQ (Graph-Relational Object Queries)
+:page_facing_up: Web Technologies: HTML, CSS
+:rocket: Frameworks: Next.js, React Native, Flutter, Node.js
+:floppy_disk: Database Management: MongoDB, Firebase, mySQL
+:art: UX Design Tools: Figma, Canva, Photoshop
+:paintbrush: UI Libraries: Tailwind CSS, Material UI, Shadcn UI, TailwindUI
 
 🌐 Connect with me:
 - 📫 How to reach me paulmothapo.personal@gmail.com

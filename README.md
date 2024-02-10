@@ -4,13 +4,13 @@
 
 🚀 Technical Skills:
 
-:snake: `#Programming Languages`: Python, Java, JavaScript, TypeScript
+:snake: `#Programming Languages`: Python, Java, JavaScript, TypeScript, Vue
 
 :mag: `Query Language`: GROQ (Graph-Relational Object Queries)
 
 :page_facing_up: `Web Technologies`: HTML, CSS
 
-:rocket: `Frameworks`: Next.js, React Native, Flutter, Node.js
+:rocket: `Frameworks`: Next.js, React Native, Flutter, Node.js, Nuxt.js
 
 :floppy_disk: `Database Management`: MongoDB, Firebase, mySQL
 

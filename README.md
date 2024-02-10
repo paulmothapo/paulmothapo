@@ -1,6 +1,6 @@
 👋 Hi, I’m @paulmothapo
 
-👀 I’m interested in transforming thw world problems into tech driven solutions whever possible.
+👀 I’m interested in transforming world problems into tech driven solutions.
 
 🚀 Technical Skills:
 
